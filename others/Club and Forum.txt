@@ -1,0 +1,48 @@
+1. Computer Club
+   President : Abir Hasan 
+   Class 10
+   Science
+   Total member = 120
+   Contact number : 01765 873527
+
+2. Sports Club
+   President : Nafiur Rahman 
+   Class 10
+   Science
+   Total member = 145
+   Contact number : 01846 935183
+
+3. Science Club
+  President : Shohanur Rahman
+   Class 10
+   Science
+   Total member = 105
+   Contact number : 01765 538438
+
+4. Debate Club
+   President : Samia Rahman
+   Class 10
+   Science
+   Total member = 96
+   Contact number : 01765 265312
+
+5. Cultural Club
+   President : Riad hossain 
+   Class 9
+   Science
+   Total member = 291
+   Contact number : 01765 361258
+
+6. Photography Club
+    President : Bornav  
+   Class 8
+   Science
+   Total member = 108
+   Contact number : 01765 873527
+
+7. Social Service Club
+    President : Abir Hasan 
+   Class 10
+   Science
+   Total member = 120
+   Contact number : 01765 873527
